@@ -1,3 +1,13 @@
+# Employee Management System
+
+This is an **Employee Management** project built using **React** and **Node.js**.
+
+## Features
+
+- Add, edit, and delete employees.
+- Filter employees by criteria such as promotion eligibility and salary thresholds.
+- Display salary details and manage employee bonuses.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
